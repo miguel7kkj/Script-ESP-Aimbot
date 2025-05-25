@@ -1,5 +1,5 @@
 -- ESP + Aimbot com Tracking e Team Check
--- Para uso autorizado e teste de trapaças
+-- Para uso autorizado em teste de trapaças
 
 -- Configurações
 local settings = {
@@ -82,3 +82,5 @@ game.Players.PlayerAdded:Connect(createESP)
 
 -- Aimbot com tracking contínuo
 local RunService = game:GetService("RunService
+
+-- Feito por miguel7kkj dar créditos!
